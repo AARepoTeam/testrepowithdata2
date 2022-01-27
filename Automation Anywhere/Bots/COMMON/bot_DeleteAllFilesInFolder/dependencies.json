@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\COMMON\\DeleteAllFilesInFolder","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\COMMON\\FileFolderInfoAndCreation\\GetFilesCount"]}
